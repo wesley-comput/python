@@ -21,4 +21,4 @@
 * Comparando Python com C
 
 ##### Click below to view the certificate
-[![]()](https://cursos.alura.com.br/certificate/d3e6bbde-4e6f-42ea-bc98-41842df6383a)
+[![](https://cdn4.iconfinder.com/data/icons/business-1221/24/Certificate-64.png)](https://cursos.alura.com.br/certificate/d3e6bbde-4e6f-42ea-bc98-41842df6383a)
