@@ -21,4 +21,4 @@
 * Comparando Python com C
 
 ##### Click below to view the certificate
-[![]()](https://cursos.alura.com.br/certificate/wesley-comput/python-3-introducao-a-nova-versao-da-linguagem)
+[![](https://cdn4.iconfinder.com/data/icons/business-1221/24/Certificate-64.png)](https://cursos.alura.com.br/certificate/wesley-comput/python-3-introducao-a-nova-versao-da-linguagem)
